@@ -1,0 +1,13 @@
+# Google Apps Script credentials
+.clasp.json
+
+# Node.js dependencies
+/node_modules
+
+# Build artifacts (if any)
+/build
+/dist
+
+# OS generated files
+.DS_Store
+Thumbs.db
